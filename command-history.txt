@@ -1,0 +1,161 @@
+    1  neofetch
+    2  ls
+    3  mkdir folder1
+    4  ls
+    5  cd folder1
+    6  cd folder1/
+    7  ls
+    8  nano biodata.txt
+    9  ls
+   10  cat biodata.txt
+   11  cd
+   12  sudo apt install neofetch
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  sudo apt install neofetch
+   16  sudo apt install git
+   17  git -v
+   18  --version
+   19  git --version
+   20  mkdir latihan-git1
+   21  ls
+   22  cd latihan-git1
+   23  sudo install gh
+   24  sudo apt install gh
+   25  gh --version
+   26  exit
+   27  sudo apt-get purge google-chrome-stable
+   28  sudo apt update && sudo apt -y upgrade
+   29  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   30  sudo apt -y install ./google-chrome-stable_current_amd64.deb
+   31  which google-chrome
+   32  google-chrome
+   33  google-chrome --no-sandbox
+   34  google-chrome
+   35  google-chrome --no-sandbox
+   36  sudo apt-get install -y libxss1
+   37  google-chrome
+   38  google-chrome --version
+   39  google-chrome
+   40  google-chrome --no-sandbox
+   41  sudo apt update && sudo apt -y upgrade
+   42  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   43  sudo apt -y install ./google-chrome-stable_current_amd64.deb
+   44  which google-chrome
+   45  google-chrome --version
+   46  google-chrome
+   47  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   48  sudo apt -y install ./google-chrome-stable_current_amd64.deb
+   49  google-chrome
+   50  which google-chrome
+   51  google-chrome --version
+   52  google-chrome
+   53  google-chrome --no-sandbox
+   54  cd latihan-git/
+   55  ls
+   56  cd latihan-git1/
+   57  google-chrome --no-sandbox
+   58  cd
+   59  sudo apt update
+   60  sudo apt install gh
+   61  ls
+   62  cd latihan-git1/
+   63  ls
+   64  gh auth login
+   65  ls
+   66  cd latihan-git1/
+   67  google-chrome --no-sandbox
+   68  gh auth login
+   69  sudo apt install gh
+   70  gh auth login
+   71  sudo apt install chromium-browser
+   72  sudo apt install gh
+   73  chromium-browser
+   74  sudo adduser ayuwira
+   75  exit
+   76  google-chrome --no-sandbox
+   77  login
+   78  cd /etc/sudoers
+   79  nano /etc/sudoers
+   80  login
+   81  gh auth login
+   82  google-chrome --no-sandbox
+   83  sudo apt remove google-chrome-stable
+   84  sudo apt purge google-chrome-stable
+   85  sudo apt autoremove
+   86  sudo apt update
+   87  sudo apt install chromium-browser
+   88  sudo apt install gh
+   89  google-chrome
+   90  sudo apt update
+   91  sudo apt install chromium-browser
+   92  sudo apt -f
+   93  sudo apt upgrade
+   94  sudo apt install wget
+   95  wget [^1^][1]
+   96  sudo apt install gdebi-core wget
+   97  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   98  sudo gdebi google-chrome-stable_current_amd64.deb
+   99  google-chrome
+  100  sudo gdebi google-chrome-stable_current_amd64.deb
+  101  google-chrome
+  102  google-chrome  --no-sandbox
+  103  google-chrome --no-sandbox
+  104  google-chrome
+  105  gh auth login
+  106  sudo auth login
+  107  gh auth login
+  108  gh auth status
+  109  wsl --shuthdown
+  110  gh auth login
+  111  gh auth status
+  112  code .
+  113  google-chrome --no-sandbox
+  114  google-chrome --no-sandbox
+  115  ls
+  116  cd latihan-git1
+  117  ls
+  118  cd latihan-git1
+  119  ls
+  120  git --version
+  121  gh --version
+  122  gh status
+  123  gh auth login
+  124  ls
+  125  cd latihan-git1
+  126  ls
+  127  git --version
+  128  gh --version
+  129  gh status
+  130  gh auth login
+  131  code .
+  132  ls
+  133  nano index.html
+  134  code .
+  135  cd ..
+  136  mkdir git-latihan
+  137  ls
+  138  cd git-latihan
+  139  code .
+  140  git init
+  141  code ..
+  142  cd git-latihan
+  143  ls
+  144  cd git-latihan
+  145  mkdir git-latihan
+  146  ls
+  147  code .
+  148  git --version
+  149  sudo apt update
+  150  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+  151  nvm --v
+  152  nvm install v14.15.4
+  153  node -v
+  154  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+  155  ls
+  156  cd uas-komdat-24/
+  157  ls
+  158  code .
+  159  npm install
+  160  npm run start
+  161  history > command-history.txt
